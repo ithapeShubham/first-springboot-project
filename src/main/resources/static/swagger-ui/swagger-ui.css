@@ -1,0 +1,18 @@
+body {
+    background-color: #f3f4f6;
+}
+
+.swagger-ui .topbar {
+    background-color: #333;
+}
+
+.swagger-ui .topbar-wrapper img {
+    content: url('/swagger-ui/custom-logo.png');
+}
+
+.swagger-ui .info {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+}
